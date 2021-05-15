@@ -40,6 +40,7 @@ void cal::frame()
   gotoxy(3,40);
  cout<<"\4  Press Enter to Start\n";
  cout<<"\4  Press A to Exit";
+ cout<<"\4  To enter next operation first press 1 and then press any number which you want.";
   }
  void cal::opr()
  {
